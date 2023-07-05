@@ -1,0 +1,2 @@
+items.sql为创建表的sql命令
+商品表里的图片 在images的文件夹里都有
